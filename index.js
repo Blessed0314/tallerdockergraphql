@@ -25,7 +25,7 @@ const resolvers = {
         return `¡Hola, ${message}! Un saludo por parte de Juan miguel `;
     },
     helloLeonD: (_, { message }) => {
-      return `¡Hola, ${message}! Un saludo por parte de Leon dominguez `;
+      return `¡Hola, ${message}! Un saludo por parte de Leon Dominguez `;
   }
     
   },

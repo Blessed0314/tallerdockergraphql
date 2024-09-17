@@ -1,7 +1,7 @@
 {
   "name": "mi-saludo-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Taller de docker y graphql",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
